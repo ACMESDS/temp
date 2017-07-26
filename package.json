@@ -1,0 +1,19 @@
+{
+  "name": "temp",
+  "version": "1.0.0",
+  "description": "Template interface for TOTEM modules",
+  "main": "temp.js",
+  "scripts": {
+    "test": "node test.js X1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acmesds/temp.git"
+  },
+  "author": "totem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acmesds/temp/issues"
+  },
+  "homepage": "https://github.com/acmesds/temp#readme"
+}

@@ -9,6 +9,16 @@ var TEMP = module.exports = {
 	
 	// options
 	
+	thread: null,  // reserved for sql connector
+	
+	errors: {
+		example: new Error("this is an exampe error message")
+	},
+	
+	paths: {  // for paths to things
+		example: "./this/path/is/long"
+	},
+	
 	// configuration
 
 	config: function (opts) {  // configure the module
